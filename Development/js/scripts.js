@@ -1,3 +1,6 @@
+
+
+<script>
 let instructor = {
   name: "Menawer",
   courses: ["JavaScript", "React", "PHP"],
@@ -9,3 +12,4 @@ let instructor = {
     console.log("Hi, I'm Menawer");
   },
 };
+</script>
